@@ -1,0 +1,15 @@
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.exe
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.deps.json
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.runtimeconfig.json
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.dll
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.pdb
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.AssemblyInfo.cs
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.dll
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\refint\FirstTask.dll
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.pdb
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.genruntimeconfig.cache
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\ref\FirstTask.dll
+C:\Users\KONSTANTIN\source\repos\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.csproj.Up2Date
